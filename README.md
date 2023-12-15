@@ -12,7 +12,7 @@ Each individual disc will become smaller as the number of discs increases,
 keeping the relationship $n r^d = t$ for the $t$ chosen by the user.
 The probability that a given point on our screen is covered by a disc depends only of $t$,
 so we compare this with the percolation model on graphs / lattices
-(see Geoffrey Grimmett's book for a comprehensive introduction to percolation http://www.statslab.cam.ac.uk/~grg/papers/perc/perc.html ).
+(see [Geoffrey Grimmett's book](http://www.statslab.cam.ac.uk/~grg/papers/perc/perc.html) for a comprehensive introduction to percolation).
 
 An interesting experiment you can do is fix $t < 1$, turn on "Colour clusters by size", and as you increase $n$ you will notice that the clusters are usually quite small.
 But if you move the slider to $t > 1$ (around 1.2 looks good), and gradually increase $n$, you will notice that a single giant cluster emerges, which spreads across the whole screen.

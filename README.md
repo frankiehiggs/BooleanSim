@@ -10,7 +10,7 @@ The first setting is "free": you can change the number of points and radius of t
 The second setting is what we call the "percolation" regime.
 Each individual disc will become smaller as the number of discs increases,
 keeping the relationship $n r^d = t$ for the $t$ chosen by the user.
-The probability that a given point on our screen is covered by a disc depends only of $t$,
+The probability that a given point on our screen is covered by a disc depends only on $t$,
 so we compare this with the percolation model on graphs / lattices
 (see [Geoffrey Grimmett's book](http://www.statslab.cam.ac.uk/~grg/papers/perc/perc.html) for a comprehensive introduction to percolation).
 

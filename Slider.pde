@@ -1,4 +1,4 @@
-// Class for sliders -- I'll want them to adjust the number of points, and the radius.
+// Class for sliders -- they adjust the number of points, and the radius.
 // We need the position on the screen, the label.
 // The slider won't need to hold its own value (number of points, R_n, etc.),
 // just the position of the handle, then I can use that in a calculation later.

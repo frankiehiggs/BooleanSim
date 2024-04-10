@@ -1,10 +1,3 @@
-// To do:
-// - Finish designing the sliders, and link them in to the actual model.
-// - Add checkboxes to change the regime for the radius:
-// - Animation?
-// - RGG mode?
-// - Colour each component separately (based on its size?)
-
 float centreX = 450;
 float centreY = 590;
 float radius = 390;
